@@ -1,0 +1,28 @@
+{
+  "name": "sindent",
+  "version": "0.0.0",
+  "description": "Remove indentation from template literals using template tags.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpwilliams/sindent.git"
+  },
+  "keywords": [
+    "indent",
+    "strip",
+    "template",
+    "literals",
+    "tags",
+    "spaces",
+    "tabs"
+  ],
+  "author": "Jack Williams (@atticjack)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpwilliams/sindent/issues"
+  },
+  "homepage": "https://github.com/jpwilliams/sindent#readme"
+}
