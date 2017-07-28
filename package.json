@@ -1,6 +1,6 @@
 {
   "name": "sindent",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Remove indentation from template literals using template tags.",
   "main": "index.js",
   "scripts": {
