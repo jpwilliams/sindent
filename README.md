@@ -1,4 +1,7 @@
 # sindent
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/jpwilliams/sindent.svg)](https://greenkeeper.io/)
+
 Remove indentation from string literals in a predictable manner using template tags.
 
 ``` js
